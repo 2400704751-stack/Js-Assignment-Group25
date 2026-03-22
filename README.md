@@ -1,6 +1,8 @@
 # Js-Assignment-Group25
 This project demonstrates how java script made our grocery site dynamic and responsive .
-GALANDI MICHEAL-2400704751
+| Name | Student Number |
+|:---- | :-------|
+|**GALANDI MICHEAL**|2400704751|
 TUHAISE RINAH -2400711538
 MPIIMA TREVOR JEREMIAH -2400706890
 KAKOOZA DAVIS-2400705125
