@@ -11,7 +11,7 @@ This is an interactive e-commerce website built using HTML, CSS, and JavaScript.
 |**MBABAZI EDDIE**|2400706762|
 |**SSERUNJOJI MOSES KINENE** |2400720262|
 |MUNDURU  BRENDA |2400707302|
-|NSUBUGA HARKSAM |2400710313|
+|**NSUBUGA HARKSAM** |2400710313|
 
 **Instructions on how to run the code**
 
