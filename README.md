@@ -13,5 +13,5 @@ This is an interactive e-commerce website built using HTML, CSS, and JavaScript.
 |MUNDURU  BRENDA |2400707302|
 |**NSUBUGA HARKSAM** |2400710313|
 
-**Instructions on how to run the code**
-
+**Instructions on how to run the code**      
+Open the project folder in VS Code
