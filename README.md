@@ -1,5 +1,5 @@
 # Js-Assignment-Group25
-This project demonstrates how java script made our grocery site dynamic and responsive .
+This is an interactive e-commerce website built using HTML, CSS, and JavaScript. Users can browse products, and items to cart, update quantities, and checkout. .
 | Name | Student Number |
 |:---- | :-------|
 |**GALANDI MICHEAL**|2400704751|
