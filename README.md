@@ -15,7 +15,8 @@ This is an interactive e-commerce website built using HTML, CSS, and JavaScript.
 
 **Instructions on how to run the code**      
 1.Open the project folder in VS Code.        
-2.Install the Live Server extension if not already installed  3.Right-click index.html and select Open with Live Server.    
+2.Install the Live Server extension if not already installed  
+3.Right-click index.html and select Open with Live Server.    
 4.The site will open in your browser.  
 
 **Git page access**
