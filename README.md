@@ -14,4 +14,4 @@ This is an interactive e-commerce website built using HTML, CSS, and JavaScript.
 |NSUBUGA HARKSAM |2400710313|
 
 **Instructions on how to run the code**
-Open the project folder in VS Code
+
