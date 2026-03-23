@@ -10,7 +10,7 @@ This is an interactive e-commerce website built using HTML, CSS, and JavaScript.
 |**NTAMUYANJALA JIMMY** |2400710329|
 |**MBABAZI EDDIE**|2400706762|
 |**SSERUNJOJI MOSES KINENE** |2400720262|
-|MUNDURU  BRENDA |2400707302|
+|**MUNDURU  BRENDA**|2400707302|
 |**NSUBUGA HARKSAM** |2400710313|
 
 **Instructions on how to run the code**      
